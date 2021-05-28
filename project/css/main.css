@@ -32,3 +32,10 @@ button {
   height: 200px;
   margin-top: 60px;
 }
+.btn-dark {
+  color: #fff;
+  background-color: #343a40;
+  border-color: #343a40;
+  padding: 10px;
+  margin-bottom: 40px;
+}
